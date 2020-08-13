@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <Header />
       <div className="app__body">
-        <Sidebar />s
+        <Sidebar />
       </div>
     </div>
   );
